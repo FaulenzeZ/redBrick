@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World! Hello my way!");
+﻿Console.WriteLine("dotnet new console -n Name");
